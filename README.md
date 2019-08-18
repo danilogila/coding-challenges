@@ -18,7 +18,7 @@ Uma coleção de exercicios feitos por mim afim de melhorar minha lógica, trein
 
 ## Desafios
 
-- [Reverse String](https://github.com/appalaszynski/javascript-exercises/blob/master/exercises/ReverseString/index.js)
+- [2D Array - DS - Hourglass](https://www.hackerrank.com/challenges/2d-array/problem)
 
 
 ---
