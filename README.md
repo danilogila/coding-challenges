@@ -19,6 +19,7 @@ Uma coleção de exercicios feitos por mim afim de melhorar minha lógica, trein
 ## Desafios
 
 - [2D Array - DS - Hourglass](https://www.hackerrank.com/challenges/2d-array/problem)
+- [Time Conversion](https://www.hackerrank.com/challenges/time-conversion/problem?isFullScreen=false)
 
 
 ---
